@@ -12,7 +12,7 @@ Tic Tac Toe is a simple, browser-based game developed using HTML, CSS, and JavaS
 ## 🚀 Live Demo
 
 [Play Now](https://game-ten-wheat.vercel.app/)  
-*(Replace with your actual GitHub Pages link)*
+
 
 ## 📁 Files
 
