@@ -1,29 +1,22 @@
-🎮 Tic Tac Toe Game
-A simple and interactive Tic Tac Toe game for two players, built using HTML, CSS, and JavaScript. Play in the browser, enjoy the game logic, and challenge your friends!
+# 🎮 Tic Tac Toe
 
-🧠 Features
+Tic Tac Toe is a simple, browser-based game developed using HTML, CSS, and JavaScript. It allows two players to take turns marking X and O on a 3x3 grid. The game includes win and draw detection, a reset option, and a responsive user interface that works smoothly on both desktop and mobile devices. It's a lightweight, beginner-friendly project that demonstrates fundamental web development concepts like DOM manipulation, event handling, and game logic.
 
-Two-player gameplay (Player X and Player O)
+## 🔹 Features
 
-Interactive UI with a clean design
+- Two-player mode (X vs O)
+- Win and draw detection
+- Game reset option
+- Clean and responsive UI
 
-Win/draw detection
+## 🚀 Live Demo
 
-Game restart/reset functionality
+[Play Now](https://game-ten-wheat.vercel.app/)  
+*(Replace with your actual GitHub Pages link)*
 
-Responsive design (works on mobile & desktop)
+## 📁 Files
 
-🛠️ Technologies Used
-HTML5 – Structure of the game
-CSS3 – Styling and layout
-JavaScript – Game logic and interactivity
+- `index.html` – Game layout  
+- `style.css` – Styling  
+- `script.js` – Game logic
 
-
-✅ Game Rules
-The game is played on a 3x3 grid.
-
-Players take turns placing their symbol (X or O) in empty cells.
-
-The first player to get three of their symbols in a row (vertically, horizontally, or diagonally) wins.
-
-If all cells are filled without a winner, the game ends in a draw.
